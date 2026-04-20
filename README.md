@@ -15,7 +15,7 @@ Use an ultrasonic sensor when:
 
 ---
 
-## [Pololu IR Distance Sensor]
+## [Pololu IR Distance Sensor](https://github.com/kingston-hackSpace/Distance_Sensors/blob/main/Pololu_IR_Dist.md)
 
 Use a Pololu IR distance sensor when:
 
