@@ -41,9 +41,9 @@ See [diagram here](https://github.com/kingston-hackSpace/Distance_ultrasonic-pol
 
 - One you have wired your ultrasonic sensor to the Arduino board (as explained above), plug the board to your computer.
 
-- Download [this 'ultrasonic sensor' code] and upload it to your Arduino board.
+- Download [this 'ultrasonic sensor' code](https://github.com/kingston-hackSpace/Distance_ultrasonic-pololuIR_sensors/blob/main/ultrasonic.ino) and upload it to your Arduino board.
 
-- Open the Arduino IDE's Serial Monitor to see the data coming from the sensor
+- Open the Arduino IDE's Serial Monitor to see the data coming from the sensor.
 
 - See an [explanation of this code here](https://projecthub.arduino.cc/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-7cabe1)
 ---
