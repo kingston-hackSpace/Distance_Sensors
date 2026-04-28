@@ -32,14 +32,20 @@ This makes it suitable for proximity detection, obstacle avoidance, and distance
 | Trig       | Digital Pin 9     |
 | Echo       | Digital Pin 10    |
 
-See [diagram here]
+See [diagram here](https://github.com/kingston-hackSpace/Distance_ultrasonic-pololuIR_sensors/blob/main/ultrasonic_bb.jpg)
 
 ⚠️ Note: The Echo pin outputs a 5V signal. If you are using a 3.3V microcontroller (such as ESP32 or Raspberry Pi Pico), use a voltage divider to protect the input pin.
 
 ---
 ## CODE ANS INSTRUCTIONS
-[Ultrasonic sensor - Basic tutorial](https://projecthub.arduino.cc/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-7cabe1)
 
+- One you have wired your ultrasonic sensor to the Arduino board (as explained above), plug the board to your computer.
+
+- Download [this 'ultrasonic sensor' code] and upload it to your Arduino board.
+
+- Open the Arduino IDE's Serial Monitor to see the data coming from the sensor
+
+- See an [explanation of this code here](https://projecthub.arduino.cc/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-7cabe1)
 ---
 ## MORE TUTORIALS
 
